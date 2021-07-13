@@ -15,7 +15,7 @@
 <!-- Profile-->
 
 <p>
-  <img align="right" height="200" alt="GIF" src="https://github.com/njha07/nj-website/blob/main/images/about.jpeg" padding="3px" />
+  <img align="right" height="200" alt="img" src="https://github.com/njha07/nj-website/blob/main/images/about.jpeg" padding="3px" />
 
   - 💁 Computer Engineering Pre Final Year Student at IIIT Bhubaneswar.
   - 🔭 Sound experience with Web Development.
@@ -23,6 +23,7 @@
   - 👯 I’m looking to collaborate on Github.
   - ⚡ Fun fact: I am creative enough to do a particular job using only the basics of the concepts required.
 <p>
+</br>
 </br>
 
 
