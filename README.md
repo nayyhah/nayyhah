@@ -8,14 +8,14 @@
 
 <!-- Contribution Graph-->
 
-![](https://activity-graph.herokuapp.com/graph?username=njha07&theme=react-dark&hide_border=true&area=true)
+![](https://activity-graph.herokuapp.com/graph?username=nayyhah&theme=react-dark&hide_border=true&area=true)
 </br>
 
 
 <!-- Profile-->
 
 <p>
-  <img align="right" height="200" alt="img" src="https://github.com/njha07/nj-website/blob/main/images/about.jpeg" padding="3px" />
+  <img align="right" height="200" alt="img" src="https://github.com/nayyhah/nj-website/blob/main/images/about.jpeg" padding="3px" />
 
   - 💁 Computer Engineering Pre Final Year Student at IIIT Bhubaneswar.
   - 🔭 Sound experience with Web Development.
@@ -58,15 +58,15 @@
 
 <!-- Stats-->
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=njha07&label=Profile%20views&color=6765D1&style=flat" alt="neha jha" width="140" height="25" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=nayyhah&label=Profile%20views&color=6765D1&style=flat" alt="neha jha" width="140" height="25" /> </p>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=njha07&theme=dark&show_icons=true&locale=en&layout=compact" alt="neha jha" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayyhah&theme=dark&show_icons=true&locale=en&layout=compact" alt="neha jha" /></p>
 
 <br>                                                                                                                                                                    
 
 <p align='center'>
-  <img width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=njha07&theme=tokyonight" alt="neha jha" />
+  <img width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=nayyhah&theme=tokyonight" alt="neha jha" />
   &nbsp; &nbsp;
-  <img width="410px" src="https://github-readme-stats.vercel.app/api?username=njha07&show_icons=true&theme=tokyonight" alt="neha jha" />
+  <img width="410px" src="https://github-readme-stats.vercel.app/api?username=nayyhah&show_icons=true&theme=tokyonight" alt="neha jha" />
 </p>
 
