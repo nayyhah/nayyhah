@@ -38,6 +38,10 @@
   <a href="https://github.com/nayyhah" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
+<!-- Languages and Tools-->
+
+<h3 align="center">Languages and Tools:</h3>
+
 <!-- Stats-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=njha07&label=Profile%20views&color=6765D1&style=flat" alt="neha jha" width="140" height="25" /> </p>
