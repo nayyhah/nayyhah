@@ -35,12 +35,20 @@
   <a href="https://neha-jha.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/domain.png"  alt="Website"/></a>
   <a href="https://github.com/njha07" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
   <a href="https://instagram.com/nayy.hah" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/> </a>
-  <a href="https://github.com/nayyhah" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+  <a href="https://twitter.com/nayyhah" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
 
 <!-- Languages and Tools-->
 
 <h3 align="center">Languages and Tools:</h3>
+<p align="center">
+  <a href="mailto:njha7189@gmail.com"><img align="center" src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/njha07" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"  alt="LinkedIn"/></a>
+  <a href="https://neha-jha.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/domain.png"  alt="Website"/></a>
+  <a href="https://github.com/njha07" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://instagram.com/nayy.hah" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/> </a>
+  <a href="https://twitter.com/nayyhah" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+</p>
 
 <!-- Stats-->
 
