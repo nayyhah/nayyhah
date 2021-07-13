@@ -15,7 +15,7 @@
 <!-- Profile-->
 
 <p>
-  <img align="right" height="210px" alt="GIF" src="https://github.com/njha07/nj-website/blob/main/images/about.jpeg" padding="3px" />
+  <img align="right" height="220px" alt="GIF" src="https://github.com/njha07/nj-website/blob/main/images/about.jpeg" padding="3px" />
 
   - 💁 Computer Engineering Pre Final Year Student at IIIT Bhubaneswar.
   - 🔭 Sound experience with Web Development.
