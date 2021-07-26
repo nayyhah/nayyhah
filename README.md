@@ -27,16 +27,26 @@
 </br>
 
 
-<!-- Social Media Links-->
+<!-- Social Media Links
+
+<a href="mailto:rajpatra.kishore@gmail.com"><img align="center" src="https://img.icons8.com/doodle/50/000000/gmail.png" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/raj-patra" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/linkedin.png"  alt="LinkedIn"/></a>
+  <a href="https://raj-patra.github.io/" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/internet.png"  alt="Website"/></a>
+  <a href="https://github.com/raj-patra" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/github.png" alt="GitHub"/></a>
+  <a href="https://t.me/a_ignorant_mortal" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/telegram-app.png" alt="Telegram"/></a>
+  <a href="https://discordapp.com/users/503535235468754964" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/discord--v2.png" alt="Reddit"/></a>
+  <a href="https://reddit.com/user/a-ignorant-mortal" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/reddit--v4.png" alt="Reddit"/></a>
+  <a href="https://instagram.com/raj__patra" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/instagram.png" alt="Instagram"/> </a>
+  <a href="https://twitter.com/ignorant_mortal" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/twitter.png" alt="Twitter"/></a>-->
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="mailto:njha7189@gmail.com"><img align="center" src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/nayyhah" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/linkedin.png"  alt="LinkedIn"/></a>
-  <a href="https://neha-jha.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/domain.png"  alt="Website"/></a>
-  <a href="https://github.com/nayyhah" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-  <a href="https://instagram.com/nayy.hah" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/> </a>
-  <a href="https://twitter.com/nayyhah" target="blank"><img align="center" src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
+  <a href="mailto:njha7189@gmail.com"><img align="center" src="https://img.icons8.com/doodle/50/000000/gmail.png" alt="Gmail" width="42" height="42"/></a>
+  <a href="https://www.linkedin.com/in/nayyhah" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/linkedin.png"  alt="LinkedIn" width="42" height="42"/></a>
+  <a href="https://neha-jha.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/internet.png"  alt="Website" width="42" height="42"/></a>
+  <a href="https://github.com/nayyhah" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/github.png" alt="GitHub" width="42" height="42"/></a>
+  <a href="https://instagram.com/nayy.hah" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/instagram.png" alt="Instagram" width="42" height="42"/> </a>
+  <a href="https://twitter.com/nayyhah" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/twitter.png" alt="Twitter" width="42" height="42"/></a>
 </p>
 
 <!-- Languages and Tools-->
