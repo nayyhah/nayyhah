@@ -63,11 +63,14 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayyhah&theme=dark&show_icons=true&locale=en&layout=compact" alt="neha jha" /></p>
 
+<p align="center"><img width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=nayyhah&theme=tokyonight" alt="neha jha" /></p>
+
+
 <br>                                                                                                                                                                    
 
-<p align='center'>
+<!-- <p align='center'>
   <img width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=nayyhah&theme=tokyonight" alt="neha jha" />
   &nbsp; &nbsp;
   <img width="410px" src="https://github-readme-stats.vercel.app/api?username=nayyhah&show_icons=true&theme=tokyonight" alt="neha jha" />
-</p>
+</p> -->
 
