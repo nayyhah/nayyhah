@@ -19,7 +19,6 @@
 
   - 💁 Computer Engineering Pre Final Year Student at IIIT Bhubaneswar.
   - 🔭 Sound experience with Web Development.
-  - 🌱 I’m currently exploring AR and VR.
   - 👯 I’m looking to collaborate on Github.
   - ⚡ Fun fact: I am creative enough to do a particular job using only the basics of the concepts required.
 <p>
