@@ -8,12 +8,12 @@
 
 <!-- Contribution Graph-->
 
-![](https://activity-graph.herokuapp.com/graph?username=nayyhah&theme=react-dark&hide_border=true&area=true)
-</br>
+<!-- ![](https://activity-graph.herokuapp.com/graph?username=nayyhah&theme=react-dark&hide_border=true&area=true)
+</br> -->
 
 
 <!-- Profile-->
-
+<!-- 
 <p>
   <img align="right" height="200" alt="img" src="https://github.com/nayyhah/nj-website/blob/main/images/about.jpeg" padding="3px" />
 
@@ -23,7 +23,7 @@
   - ⚡ Fun fact: I am creative enough to do a particular job using only the basics of the concepts required.
 <p>
 </br>
-</br>
+</br> -->
 
 
 <!-- Social Media Links-->
@@ -39,7 +39,7 @@
 </p>
 
 <!-- Languages and Tools-->
-
+<!-- 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
@@ -55,12 +55,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/> 
 </p>
 <br>
-
+ -->
 <!-- Stats-->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=nayyhah&label=Profile%20views&color=6765D1&style=flat" alt="neha jha" width="140" height="25" /> </p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayyhah&theme=dark&show_icons=true&locale=en&layout=compact" alt="neha jha" /></p>
+<!-- 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nayyhah&theme=dark&show_icons=true&locale=en&layout=compact" alt="neha jha" /></p> -->
 
 <p align="center"><img width="410px" src="https://github-readme-streak-stats.herokuapp.com/?user=nayyhah&theme=tokyonight" alt="neha jha" /></p>
 
