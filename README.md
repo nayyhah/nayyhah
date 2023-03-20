@@ -32,10 +32,9 @@
 <p align="center">
   <a href="mailto:njha7189@gmail.com"><img align="center" src="https://img.icons8.com/doodle/50/000000/gmail.png" alt="Gmail" width="42" height="42"/></a>
   <a href="https://www.linkedin.com/in/nayyhah" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/linkedin.png"  alt="LinkedIn" width="42" height="42"/></a>
-  <a href="https://neha-jha.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/internet.png"  alt="Website" width="42" height="42"/></a>
-  <a href="https://github.com/nayyhah" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/github.png" alt="GitHub" width="42" height="42"/></a>
-  <a href="https://instagram.com/nayy.hah" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/instagram.png" alt="Instagram" width="42" height="42"/> </a>
   <a href="https://twitter.com/nayyhah" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/twitter.png" alt="Twitter" width="42" height="42"/></a>
+  <a href="https://nayyhah.netlify.app/" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/internet.png"  alt="Website" width="42" height="42"/></a>
+  <a href="https://github.com/nayyhah" target="blank"><img align="center" src="https://img.icons8.com/doodle/50/000000/github.png" alt="GitHub" width="42" height="42"/></a>
 </p>
 
 <!-- Languages and Tools-->
